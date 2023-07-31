@@ -5,7 +5,7 @@ from piemc.plugin.Terminal import Terminal
 import os
 class Main(PluginBase):
   def on_enable(self):
-    self.logger.info(Terminal.green("[PiePluginPort] enabling..."))
+    self.logger.info(Terminal.green("[PiePluginPort] enabling...:)"))
     
  def onCommand(sender, command, label, args):
   if command == "getplugin":
