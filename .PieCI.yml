@@ -1,0 +1,9 @@
+--- # Poggit-CI Manifest. Open the CI at https://PieMC-Dev.github.io/dev/CI/skyss0fly/PiePluginPort
+build-by-default: true
+branches:
+- main
+projects:
+  PiePluginPort:
+    path: ""
+
+...
