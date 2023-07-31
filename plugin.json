@@ -1,0 +1,9 @@
+{
+"name":"PiePluginPort",
+"api":"^1.0.0",
+"author":"skyss0fly",
+  "version":"1.0.0",
+  "main":"src/skyss0fly/PiePluginPort/main",
+  "description": "Get any plugin from our plugin site using this:)",
+  "website": "https://github.com/PieMC-Dev/PieMC"
+}
